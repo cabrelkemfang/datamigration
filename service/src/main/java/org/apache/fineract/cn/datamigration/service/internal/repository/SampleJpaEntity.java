@@ -22,7 +22,7 @@ import javax.persistence.*;
 
 @SuppressWarnings("unused")
 @Entity
-@Table(name = "template_samples")
+@Table(name = "datamigration_samples")
 public class SampleJpaEntity {
 
   @Id

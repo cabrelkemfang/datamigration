@@ -20,6 +20,6 @@ package org.apache.fineract.cn.datamigration.api.v1;
 
 @SuppressWarnings("unused")
 public interface PermittableGroupIds {
-  String DATAMIGRATION_MANAGEMENT = "datamigration__v1__samples";
+  String DATAMIGRATION_MANAGEMENT = "datamigration__v1__datamigration";
   String APPLICATION_MANAGEMENT = "datamigration__v1__self";
 }

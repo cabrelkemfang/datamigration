@@ -16,7 +16,7 @@
  */
 
 group 'org.apache.fineract.cn.datamigration'
-version '0.1.0.BUILD-SNAPSHOT'
+version '0.1.0-BUILD-SNAPSHOT'
 
 ext.versions = [
         frameworkapi : '0.1.0-BUILD-SNAPSHOT',
